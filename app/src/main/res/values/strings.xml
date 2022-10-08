@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="get_started">Get Started</string>
+    <string name="placeholder">PlaceHolder</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Email</string>
+    <string name="password">Password</string>
+    <string name="number">Number</string>
+    <string name="or">OR</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="submit">Submit</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="exit_app">Exit App</string>
+    <string name="log_out">Log Out</string>
+
+
+    <!--Dialog-->
+    <string name="dialog_message">Are you sure you want to close this application?</string>
+    <string name="premium_message">Do you want premium access?</string>
+    <string name="dialog_title">Exit App</string>
+    <string name="premium_title">Remove Ads</string>
+    <string name="home">Home</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="exit">Exit</string>
+    <string name="add_note">Add New Note</string>
+    <string name="new_note">New Note</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="add_notes">Add Note</string>
+    <string name="save_files">Saved Files</string>
+</resources>
